@@ -18,6 +18,6 @@ Blog: https://medium.com/@naresh2695/spatial-analysis-of-a-safer-one-to-live-in-
 * QGIS
 
 ## Screencast
-* https://web.microsoftstream.com/video/2266d18d-9b25-4c07-bda5-f1ebf4bedae0
+* https://web.microsoftstream.com/video/44a6ac27-e47d-453c-867d-187e5af25a4f
 * https://www.dropbox.com/s/2th98gdnw61cuwn/spatial_db_project_screencast.mp4?dl=0
 * https://drive.google.com/file/d/13NG6Br-j68weECjVqdqpa5G_zuggaqIA/view?usp=sharing
