@@ -1,8 +1,0 @@
-The screencast video can be found in either of the following URLs.
-
-* https://web.microsoftstream.com/video/44a6ac27-e47d-453c-867d-187e5af25a4f
-* https://www.dropbox.com/s/2th98gdnw61cuwn/spatial_db_project_screencast.mp4?dl=0
-* https://drive.google.com/file/d/13NG6Br-j68weECjVqdqpa5G_zuggaqIA/view?usp=sharing
-
-Code is hosted on Github.
-* https://github.com/nareshkumarnagaraj/cs621-spatial-db
